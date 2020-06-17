@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Musical Structure</string>
+    <string name="pop_playlist">Pop Playlist</string>
+    <string name="blues_playlist">Blues Playlist</string>
+    <string name="rock_playlist">Rock Playlist</string>
+    <string name="Play">TODO</string>
+    <string name="artist1">Lorem ipsum</string>
+    <string name="song1">thoughtful</string>
+    <string name="artist2">Dolor sit</string>
+    <string name="song2">scan</string>
+    <string name="artist3">Consectetuer</string>
+    <string name="song3">loud</string>
+    <string name="artist4">Adipiscing elit</string>
+    <string name="song4">delicate</string>
+    <string name="artist5">Diam</string>
+    <string name="song5">rate</string>
+    <string name="artist6">Nonummy nibh</string>
+    <string name="song6">society</string>
+    <string name="artist7">Tincidunt</string>
+    <string name="song7">advertise</string>
+    <string name="artist8">Ut laoreet</string>
+    <string name="song8">feature</string>
+    <string name="artist9">Magna</string>
+    <string name="song9">teacher</string>
+    <string name="artist10">Aliquam erat</string>
+    <string name="song10">agree</string>
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <!-- Background color for the pop category -->
+    <color name="category_pop">#FD8E09</color>
+
+    <!-- Background color for the blues category -->
+    <color name="category_blues">#379237</color>
+
+    <!-- Background color for the rock category -->
+    <color name="category_rock">#179</color>
+</resources>
